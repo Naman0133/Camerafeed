@@ -16,7 +16,7 @@ fantastic [tutorials available](http://www.pyimagesearch.com/opencv-tutorials-re
     ```
 4. Install additional dependencies
     ```bash
-    $ pip setup.py develop
+    $ pip setup.py install
     ```
 5. Run the app
     ```bash
